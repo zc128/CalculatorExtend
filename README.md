@@ -1,4 +1,4 @@
 
 CalculatorExtend-Library-UnitTest-JSON
 
-CalculatorExtend-Assignment 2
+Extend the console Application (Calculator)
